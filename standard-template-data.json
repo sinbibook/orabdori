@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-03-27T05:19:36.586Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-03-27T05:28:15.825Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -699,7 +699,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Private Hanok \nStay in \nGangneung"
+                "description": "A Private \nHanok House \nin Gangneung"
               },
               "gallery": {
                 "title": "",
