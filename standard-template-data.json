@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-27T05:28:15.825Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-27T05:32:50.895Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -422,9 +422,9 @@
     {
       "id": "995cf948-6dfc-496c-9b18-e353935bf87d",
       "name": "양양댁(독채, 애견동반, 한옥)",
-      "description": "",
+      "description": "독채형 : 거실1+침대룸(퀸1+싱글1)+주방1+화장실1+개별바비큐",
       "roomInfo": "",
-      "usageGuide": "",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0~24개월미만 무료\n- 24개월이상~성인 1인 30,000원\n- 침구추가 1채 30,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 82.65,
       "baseOccupancy": 2,
@@ -485,9 +485,9 @@
     {
       "id": "2bfea0a8-9c87-4c08-a888-1856b8524a5e",
       "name": "영월댁(독채, 애견동반, 한옥)",
-      "description": "",
+      "description": "독채형 : 거실1+침대룸(퀸1)+주방1+화장실1+개별바비큐",
       "roomInfo": "",
-      "usageGuide": "",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0~24개월미만 무료\n- 24개월이상~성인 1인 30,000원\n- 침구추가 1채 30,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 42.98,
       "baseOccupancy": 2,
@@ -660,14 +660,14 @@
                     "id": "be6cc19f-43c7-41a2-9350-edafb9934316",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582127666-1q8lujhewfn.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "개별 단독 독채에서 오롯이 나만의 시간을 누려보세요.\n프라이빗한 공간 속에서 전통 한옥의 고즈넉한 멋을 느끼고,\n일상에서 벗어난 특별한 하루를 경험할 수 있습니다.",
                     "isSelected": true
                   },
                   {
                     "id": "2fa68069-79c7-4870-9e32-e4d40871d25a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582127666-efdjsh8nfg.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "잔디마당부터 미니풀장, 불멍, 아궁이, 개별 바베큐장까지\n다양한 부대시설이 준비되어 있어 강릉에서의 하루를 더욱 알차게 채워드립니다.\n머무는 순간마다 즐길 거리가 더해져\n여유로운 시간 속에 오래 기억될 감성을 더해줍니다.",
                     "isSelected": false
                   },
                   {
@@ -845,7 +845,7 @@
                     }
                   ],
                   "blockId": "721cc406-7962-4988-8902-226e2db1da79",
-                  "description": "개별 단독 독채로 프라이빗하게 한옥의 멋을 느끼며 하루를 보낼 수 있습니다."
+                  "description": "개별 단독 독채에서 오롯이 나만의 시간을 누려보세요.\n프라이빗한 공간 속에서 전통 한옥의 고즈넉한 멋을 느끼고,\n일상에서 벗어난 특별한 하루를 경험할 수 있습니다."
                 },
                 {
                   "title": "다양한 부대시설",
@@ -892,7 +892,7 @@
                     }
                   ],
                   "blockId": "34f842ee-7b48-4389-896d-c8407842fe87",
-                  "description": "다양한 부대시설이 준비되어 있어서 알차게 보내는 강릉에서의 하루"
+                  "description": "잔디마당부터 미니풀장, 불멍, 아궁이, 개별 바베큐장까지\n다양한 부대시설이 준비되어 있어 \n강릉에서의 하루를 더욱 알차게 채워드립니다.\n\n머무는 순간마다 즐길 거리가 더해져\n여유로운 시간 속에 오래 기억될 감성을 더해줍니다."
                 }
               ]
             }
