@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-03-27T03:14:50.562Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-03-27T03:21:35.238Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -641,8 +641,17 @@
                 "description": "강릉 오랍돌이 한옥펜션"
               },
               "closing": {
-                "title": "",
-                "images": []
+                "title": "Private Hanok Stay in Gangneung",
+                "images": [
+                  {
+                    "id": "d23da074-9691-471f-8ef2-2f2004d44984",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_closing/1774581659348-mdbnbmq4xp.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "강릉 오랍돌이 한옥펜션"
               },
               "essence": {
                 "title": " ",
