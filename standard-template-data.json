@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-03-27T06:16:47.906Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-03-27T06:42:27.949Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -693,7 +693,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "A Private \nHanok House \nin Gangneung"
+                "description": "A private hanok house \nin Gangneung, \nwith a warm hanok feel."
               },
               "gallery": {
                 "title": "",
