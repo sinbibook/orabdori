@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-03-27T05:32:50.895Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-03-27T05:34:34.110Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -664,37 +664,23 @@
                     "isSelected": true
                   },
                   {
-                    "id": "2fa68069-79c7-4870-9e32-e4d40871d25a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582127666-efdjsh8nfg.jpg",
-                    "sortOrder": 1,
-                    "description": "잔디마당부터 미니풀장, 불멍, 아궁이, 개별 바베큐장까지\n다양한 부대시설이 준비되어 있어 강릉에서의 하루를 더욱 알차게 채워드립니다.\n머무는 순간마다 즐길 거리가 더해져\n여유로운 시간 속에 오래 기억될 감성을 더해줍니다.",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "4bb15a57-3749-41f3-bb9b-468b7ff1b970",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582127666-1rh99pcflxv.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
                     "id": "47e7e107-e9ee-4484-a3d7-48dd9a812acb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582127666-y3hiyz13k1.jpg",
-                    "sortOrder": 3,
-                    "description": "",
+                    "sortOrder": 1,
+                    "description": "잔디마당부터 미니풀장, 불멍, 아궁이, 개별 바베큐장까지\n다양한 부대시설이 준비되어 있어 \n강릉에서의 하루를 더욱 알차게 채워드립니다.\n\n머무는 순간마다 즐길 거리가 더해져\n여유로운 시간 속에 오래 기억될 감성을 더해줍니다.",
                     "isSelected": true
                   },
                   {
                     "id": "c28958c2-c4a8-460b-acac-50fc7f08bfa0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582392234-xzvds0r2xbi.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "7233bc0b-51a3-4b79-b63c-4bd1afeeb63b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/index_essence/1774582392234-xlslpowoa8.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
