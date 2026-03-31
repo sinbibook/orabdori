@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-03-31T05:14:57.642Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-03-31T05:16:52.973Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -1594,8 +1594,8 @@
               "category": "roomtype_exterior"
             },
             {
-              "id": "ffa12583-005f-4602-85c1-301c7c74d80f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/roomtype_exterior/1774580935841-ikpc40ix35n.jpg",
+              "id": "4d5e1ce4-ac6c-460b-bd03-bec3ddaed12c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/roomtype_exterior/1774934174120-rqbgyyxhfj.jpg",
               "sortOrder": 4,
               "description": "불멍",
               "isSelected": true,
