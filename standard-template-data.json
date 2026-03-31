@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-03-31T05:16:52.973Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-03-31T06:59:00.646Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -919,7 +919,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "강릉 오랍돌이 한옥펜션입니다"
+                "description": "강원 방언 '오랍돌이'처럼 오래도록 머물고 싶은 오랍돌이 강릉"
               },
               "about": [
                 {
@@ -1853,7 +1853,6 @@
           ]
         }
       ]
-    },
-    "id": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
+    }
   }
 }
