@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-03-31T07:41:50.454Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-04-02T00:40:40.697Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -1028,6 +1028,14 @@
                       "blockId": "acd62d54-3a64-4368-867b-63d213e8a714"
                     },
                     {
+                      "id": "d7a867b8-ab7e-469d-b30c-a84620f60fbd",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/main_about/1775090433253-czvz1g5urn6.png",
+                      "sortOrder": 10,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "acd62d54-3a64-4368-867b-63d213e8a714"
+                    },
+                    {
                       "id": "2fdac421-60ae-46d2-ad28-d91559d71336",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/main_about/1774925763761-ht6mts7v4q6.jpg",
                       "sortOrder": 11,
@@ -1853,6 +1861,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
   }
 }
