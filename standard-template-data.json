@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-04-02T00:40:40.697Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-04-02T00:41:17.615Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -1019,14 +1019,6 @@
                 {
                   "title": "오랍돌이 강릉의 History",
                   "images": [
-                    {
-                      "id": "5d6e8829-d7e5-47b7-8bbe-dd94e51a8479",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/main_about/1774925763760-b5aoh7rvenp.jpg",
-                      "sortOrder": 10,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "acd62d54-3a64-4368-867b-63d213e8a714"
-                    },
                     {
                       "id": "d7a867b8-ab7e-469d-b30c-a84620f60fbd",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/be5e45bc-298a-4ffe-aaef-c2c614da2beb/main_about/1775090433253-czvz1g5urn6.png",
