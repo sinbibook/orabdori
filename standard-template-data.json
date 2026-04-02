@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-04-02T00:41:52.187Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-04-02T00:56:01.839Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -544,7 +544,7 @@
     "nameEn": "Gangneung Orabdori Hanok Pension",
     "domain": "orabdori.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11478",
-    "ybsId": ""
+    "ybsId": "79239"
   },
   "rooms": [
     {
