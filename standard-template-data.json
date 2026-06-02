@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-06-02T05:56:32.171272470Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-06-02T06:00:42.832763954Z",
     "templateType": "fullpage_visual",
     "propertyId": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "homepageId": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
@@ -9,6 +9,7 @@
   "property": {
     "id": "2b050611-ef2c-441b-ae5e-4c8f00f07ff7",
     "name": "강릉 오랍돌이 한옥펜션",
+    "nameEn": "Gangneung Orabdori Hanok Pension",
     "description": "",
     "subtitle": "",
     "address": "강원특별자치도 강릉시 죽헌길85번길 9",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
+    "domain": "orabdori.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2061938847",
+    "ybsId": "79239",
     "amenities": [ ],
     "nearbyAttractions": [
       "해변",
@@ -593,11 +597,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Gangneung Orabdori Hanok Pension",
-    "domain": "orabdori.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2061938847",
-    "ybsId": "79239"
+    ]
   },
   "rooms": [
     {
@@ -755,6 +755,7 @@
     }
   ],
   "homepage": {
+    "id": "be5e45bc-298a-4ffe-aaef-c2c614da2beb",
     "domain": "orabdori.kr",
     "templateType": "fullpage_visual",
     "images": [
@@ -1234,15 +1235,24 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         }
       },
+      "popup": {
+        "popups": [ ]
+      },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1254,12 +1264,6 @@
             "key": "cormorant",
             "woff2": null,
             "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
           }
         },
         "color": {
@@ -1267,10 +1271,8 @@
           "secondary": "#7B5F56"
         }
       },
-      "popup": {
-        "popups": [ ]
-      },
       "property": {
+        "name": "오랍돌이 강릉 한옥펜션",
         "images": [
           {
             "id": "1cf1f997-b2c9-47a0-8b43-7b25855b119a",
@@ -1498,7 +1500,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "오랍돌이 강릉 한옥펜션",
         "nameEn": "Gangneung Orabdori Hanok Pension"
       },
       "roomtypes": [
@@ -2008,7 +2009,6 @@
           ]
         }
       ]
-    },
-    "id": "be5e45bc-298a-4ffe-aaef-c2c614da2beb"
+    }
   }
 }
